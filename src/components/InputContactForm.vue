@@ -92,7 +92,7 @@ export default {
 
       if ( !isValidPhone )
       {
-        alert( 'Nomor telepon hanya dapat berupa angka.'+ isValidPhone);
+        alert( 'Nomor telepon hanya dapat berupa angka.');
       }
 
        if ( !isValidEmail )
