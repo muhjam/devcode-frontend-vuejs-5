@@ -8,7 +8,7 @@
     />
     <div data-cy="devcode-title">
       <!-- insert header element here -->
-      <h1>I’m ready for the next challenge!</h1>
+      <h1>I'm ready for the next challenge!</h1>
     </div>
     <div data-cy="router-button">
       <router-link class="router__btn" to="/contacts">Level Selanjutnya</router-link>
